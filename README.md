@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LINORBENYOSSEF Software Engineer student & Working as Data Engineer 👩🏻‍💻
+- 👋 Hi, I’m @LINORBENYOSSEF Software Engineer graduate & Working as Data Engineer 👩🏻‍💻
 - 👀 I’m interested in Java☕♨️ Python 🐍 
 - ✉️ Mail: linorkhbur@gmail.com 
 - 🗂️ Linkedin https://www.linkedin.com/in/linor-ben-yossef-287b1a10b
