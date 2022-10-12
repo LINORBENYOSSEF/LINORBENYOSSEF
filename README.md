@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LINORBENYOSSEF Software Engineer graduate & Working as Data Engineer 👩🏻‍💻
-- 👀 I’m interested in Java☕♨️ Python 🐍 
+- 👀 I’m interested in Big Data using Java☕♨️ Python 🐍 Kafka, Spark 🎇, AWS, OpenShift, k8s and more...
 - ✉️ Mail: linorkhbur@gmail.com 
 - 🗂️ Linkedin https://www.linkedin.com/in/linor-ben-yossef-287b1a10b
 - 😎 Emojis is my professional ✨
